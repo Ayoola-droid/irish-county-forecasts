@@ -1,0 +1,53 @@
+series,county,best_model,test_rmse,pct_lower_rmse_than_runner_up
+Housing stock,Carlow,TBATS,163.4,2.8
+Housing stock,Cavan,Neural net,42.1,4.3
+Housing stock,Clare,TBATS,293.0,5.4
+Housing stock,Cork,ARIMA,1684.4,53.1
+Housing stock,Donegal,ETS,36.2,2.0
+Housing stock,Dublin,ARIMA,8254.5,46.0
+Housing stock,Galway,ARIMA,383.8,58.1
+Housing stock,Kerry,ARIMA,124.7,0.0
+Housing stock,Kildare,ARIMA,792.0,80.7
+Housing stock,Kilkenny,ARIMA,150.4,21.3
+Housing stock,Laois,ARIMA,196.4,8.1
+Housing stock,Leitrim,ARIMA,3.1,0.0
+Housing stock,Limerick,TBATS,607.8,19.0
+Housing stock,Longford,Neural net,0.9,24.6
+Housing stock,Louth,ETS,559.5,6.1
+Housing stock,Mayo,TBATS,61.3,13.1
+Housing stock,Meath,ARIMA,3471.6,3.6
+Housing stock,Monaghan,ETS,43.5,6.1
+Housing stock,Offaly,ETS,146.0,6.8
+Housing stock,Roscommon,ETS,55.2,4.3
+Housing stock,Sligo,TBATS,14.9,5.1
+Housing stock,Tipperary,ETS,82.6,9.1
+Housing stock,Waterford,ETS,988.1,1.2
+Housing stock,Westmeath,TBATS,142.8,6.3
+Housing stock,Wexford,ETS,1006.0,0.0
+Housing stock,Wicklow,ARIMA,1062.0,35.9
+Population,Carlow,ARIMA,1228.7,2.9
+Population,Cavan,ARIMA,1088.5,37.8
+Population,Clare,ARIMA,4033.6,28.5
+Population,Cork,TBATS,11788.0,62.1
+Population,Donegal,TBATS,1897.4,55.0
+Population,Dublin,TBATS,80530.9,8.4
+Population,Galway,TBATS,3934.4,70.8
+Population,Kerry,ETS,2837.2,17.3
+Population,Kildare,ETS,1890.9,43.8
+Population,Kilkenny,ARIMA,198.1,91.1
+Population,Laois,TBATS,1894.1,59.8
+Population,Leitrim,TBATS,658.6,53.5
+Population,Limerick,ARIMA,7077.3,23.2
+Population,Longford,TBATS,1458.7,28.5
+Population,Louth,ARIMA,2043.1,61.6
+Population,Mayo,ETS,2143.3,41.8
+Population,Meath,ARIMA,7133.9,45.5
+Population,Monaghan,TBATS,694.3,56.2
+Population,Offaly,ETS,3325.2,46.6
+Population,Roscommon,ETS,2291.9,20.7
+Population,Sligo,ETS,1869.6,18.5
+Population,Tipperary,ARIMA,3673.7,4.4
+Population,Waterford,ETS,5913.0,14.5
+Population,Westmeath,ETS,3807.0,34.6
+Population,Wexford,ETS,7131.1,16.0
+Population,Wicklow,ETS,2073.8,43.1
