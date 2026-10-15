@@ -63,4 +63,4 @@ Time-series forecasting · Model comparison and selection · Interpolation · Wo
 
 ## Author
 
-Ayoola Fadare · MSc Business Analytics (2025)
+Ayoola Fadare · MSc Business Analytics (2025) · [LinkedIn](https://www.linkedin.com/in/ayoola-fadare-78916b107)
